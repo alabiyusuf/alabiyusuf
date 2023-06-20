@@ -1,7 +1,7 @@
-### <div align="center">I'm Yusuf, a backend developer 👨‍💻</div>  
+### <div align="left">Hi there 👋, I'm Yusuf, a backend developer 👨‍💻</div>  
   
 
-- ❓ Ask me about anything related to backend development and related technologies.  
+-  Ask me about anything related to backend development and related technologies.  
   
 
 <br/>  
