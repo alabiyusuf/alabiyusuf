@@ -7,7 +7,7 @@
 
 I'm an Analyst and Data Engineer. I build things at the intersection of AI and analysis. 
 
-My background sits across data science,, business analysis, and product domain.
+My background sits across data science, business analysis, and product domain.
 
 "Raw numbers today, refined wisdom to help business grow tomorrow." </div>  
   
